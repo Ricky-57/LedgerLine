@@ -1,0 +1,24 @@
+
+# Backend - Java / Maven
+backend/target/
+*.class
+
+# IntelliJ
+.idea/
+*.iml
+
+# Frontend - React / Node
+frontend/node_modules/
+frontend/dist/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
